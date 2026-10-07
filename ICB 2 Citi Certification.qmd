@@ -1,0 +1,19 @@
+---
+title: "IC8-2 - CITI Certification"
+author: "Luis Ahumada"
+format:
+  html:
+    toc: false
+    embed-resources: true
+    theme: cosmo
+---
+
+## Proof of Certification 
+
+![](images/CITI Certification.png)
+
+## Appendix
+
+[Git Repo](https://github.com/lahumada63/CITI-Training-and-Certificate)
+
+Git Pages
