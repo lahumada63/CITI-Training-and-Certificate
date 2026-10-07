@@ -16,4 +16,4 @@ format:
 
 [Git Repo](https://github.com/lahumada63/CITI-Training-and-Certificate)
 
-Git Pages
+[Git Pages](https://lahumada63.github.io/CITI-Training-and-Certificate/)
